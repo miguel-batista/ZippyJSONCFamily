@@ -22,5 +22,5 @@ let package = Package(
             name: "ZippyJSONCFamilyTests",
             dependencies: ["ZippyJSONCFamily"]),
     ],
-    cxxLanguageStandard: .cxx1z
+    cxxLanguageStandard: .cxx14
 )
